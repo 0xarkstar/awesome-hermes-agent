@@ -56,6 +56,7 @@ Hermes Agent is an open-source, self-improving AI agent with persistent memory, 
 - [hermes-weather-plugin](https://github.com/FahrenheitResearch/hermes-weather-plugin) - Professional-grade weather data plugin using NWS and NEXRAD radar sources.
 - [litprog-skill](https://github.com/tlehman/litprog-skill) - Literate programming skill for generating well-documented executable code.
 - [pydantic-ai-skills](https://github.com/DougTrajano/pydantic-ai-skills) - Pydantic AI integration with agentskills.io skill validation and discovery.
+- [Sequenzy/skills](https://github.com/Sequenzy/skills/tree/main/skills/sequenzy-email-marketing) - Sequenzy email marketing and transactional/product email skill for operating subscribers, segments, campaigns, sequences, templates, stats, and transactional sends from Hermes-compatible agents. `Beta`.
 - [Skills Guide](https://hermes-agent.nousresearch.com/docs/user-guide/features/skills) - Official documentation for creating, publishing, and discovering skills.
 - [wondelai/skills](https://github.com/wondelai/skills) - Cross-platform agent skills collection compatible with multiple agent frameworks.
 
