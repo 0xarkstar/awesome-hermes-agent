@@ -19,7 +19,6 @@ Hermes Agent is an open-source, self-improving AI agent with persistent memory, 
 - [Showcase Projects](#showcase-projects)
 - [Tutorials and Guides](#tutorials-and-guides)
 - [Community](#community)
-- [Related Lists](#related-lists)
 
 ## Official Resources
 
@@ -43,16 +42,16 @@ Hermes Agent is an open-source, self-improving AI agent with persistent memory, 
 - [evey-setup](https://github.com/42-evey/evey-setup) - One-command setup script for a full Hermes Agent development stack.
 - [hermes-agent-docker](https://github.com/xmbshwll/hermes-agent-docker) - Minimal Docker sandbox environment for isolated Hermes Agent instances.
 - [nix-hermes-agent](https://github.com/0xrsydn/nix-hermes-agent) - Nix package and NixOS module for reproducible Hermes Agent installations.
-- [portainer-stack-hermes](https://github.com/ellickjohnson/portainer-stack-hermes) - Docker Compose stack with Portainer management UI and ttyd web terminal.
 
 ## Skills and Plugins
 
 - [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - Over 700 cybersecurity skills mapped to the MITRE ATT&CK framework.
 - [black-forest-labs/skills](https://github.com/black-forest-labs/skills) - Official FLUX image generation skills for agent-driven visual content creation.
-- [chainlink-agent-skills](https://github.com/smartcontractkit/chainlink-agent-skills) - Official Chainlink integration skills for blockchain oracle interactions.
+- [chainlink-agent-skills](https://github.com/smartcontractkit/chainlink-agent-skills) - Official Chainlink integration skills for Blockchain oracle interactions.
 - [evey-bridge-plugin](https://github.com/42-evey/evey-bridge-plugin) - Plugin bridging Claude Code and Hermes Agent for cross-tool workflows.
 - [execplan-skill](https://github.com/tiann/execplan-skill) - Complex task execution skill with checkpoints and failure recovery.
 - [hermes-plugins](https://github.com/42-evey/hermes-plugins) - Collection of plugins for goal management, model selection, and cost control.
+- [Hermes Tweet](https://github.com/Xquik-dev/hermes-tweet) - Native Hermes Agent plugin for X/Twitter automation through Xquik, with generated endpoint discovery, read/action tool gating, slash commands, and a bundled usage skill. `Beta`.
 - [hermes-weather-plugin](https://github.com/FahrenheitResearch/hermes-weather-plugin) - Professional-grade weather data plugin using NWS and NEXRAD radar sources.
 - [litprog-skill](https://github.com/tlehman/litprog-skill) - Literate programming skill for generating well-documented executable code.
 - [pydantic-ai-skills](https://github.com/DougTrajano/pydantic-ai-skills) - Pydantic AI integration with agentskills.io skill validation and discovery.
@@ -122,4 +121,6 @@ This list is partially maintained with the help of Hermes Agent for automated li
 
 ## Contributing
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
