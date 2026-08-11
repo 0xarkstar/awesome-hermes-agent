@@ -62,7 +62,7 @@ Hermes Agent is an open-source, self-improving AI agent with persistent memory, 
 ## Tools and Utilities
 
 - [hermes-workspace](https://github.com/outsourc-e/hermes-workspace) - Web-based workspace combining chat interface, terminal, and skills manager.
-- [lintlang](https://github.com/roli-lpci/lintlang) - Static analysis linter for AI agent configuration files and skill definitions.
+- [lintlang](https://github.com/hermes-labs-ai/lintlang) - Deterministic local static analysis for authored natural-language agent instructions. `Beta`.
 - [mission-control](https://github.com/builderz-labs/mission-control) - Agent orchestration dashboard for monitoring and managing multiple Hermes instances.
 - [openclaw-to-hermes](https://github.com/0xNyk/openclaw-to-hermes) - Migration tool for converting OpenClaw configurations to Hermes Agent format.
 - [portable-hermes-agent](https://github.com/rookiemann/portable-hermes-agent) - Windows desktop application for running Hermes Agent without terminal setup.
