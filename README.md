@@ -42,6 +42,7 @@ Hermes Agent is an open-source, self-improving AI agent with persistent memory, 
 
 - [evey-setup](https://github.com/42-evey/evey-setup) - One-command setup script for a full Hermes Agent development stack.
 - [hermes-agent-docker](https://github.com/xmbshwll/hermes-agent-docker) - Minimal Docker sandbox environment for isolated Hermes Agent instances.
+- [Hermes-OTG](https://github.com/MilkyWay008/Hermes-OTG) - Portable, zero-install Hermes Agent on a USB stick; runs side-by-side with an installed Hermes desktop, works offline, and survives drive-letter changes. The rescue kit for broken host installs.
 - [nix-hermes-agent](https://github.com/0xrsydn/nix-hermes-agent) - Nix package and NixOS module for reproducible Hermes Agent installations.
 - [portainer-stack-hermes](https://github.com/ellickjohnson/portainer-stack-hermes) - Docker Compose stack with Portainer management UI and ttyd web terminal.
 
