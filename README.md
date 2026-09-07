@@ -61,6 +61,7 @@ Hermes Agent is an open-source, self-improving AI agent with persistent memory, 
 
 ## Tools and Utilities
 
+- [Artifact Relay](https://github.com/eloktev/artifact-relay) - Private-by-default gateway for publishing long Hermes Agent Markdown and standalone HTML to a self-hosted authenticated library, with artifact-scoped sharing. `Production`.
 - [hermes-workspace](https://github.com/outsourc-e/hermes-workspace) - Web-based workspace combining chat interface, terminal, and skills manager.
 - [lintlang](https://github.com/roli-lpci/lintlang) - Static analysis linter for AI agent configuration files and skill definitions.
 - [mission-control](https://github.com/builderz-labs/mission-control) - Agent orchestration dashboard for monitoring and managing multiple Hermes instances.
