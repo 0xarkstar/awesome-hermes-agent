@@ -54,6 +54,7 @@ Hermes Agent is an open-source, self-improving AI agent with persistent memory, 
 - [execplan-skill](https://github.com/tiann/execplan-skill) - Complex task execution skill with checkpoints and failure recovery.
 - [hermes-plugins](https://github.com/42-evey/hermes-plugins) - Collection of plugins for goal management, model selection, and cost control.
 - [hermes-weather-plugin](https://github.com/FahrenheitResearch/hermes-weather-plugin) - Professional-grade weather data plugin using NWS and NEXRAD radar sources.
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness/tree/main/skills/hyperconsciousness) - CLI skill for finding local skills, PKM notes and encrypted knowledge, with a Hermes installer. `Experimental`.
 - [litprog-skill](https://github.com/tlehman/litprog-skill) - Literate programming skill for generating well-documented executable code.
 - [pydantic-ai-skills](https://github.com/DougTrajano/pydantic-ai-skills) - Pydantic AI integration with agentskills.io skill validation and discovery.
 - [Skills Guide](https://hermes-agent.nousresearch.com/docs/user-guide/features/skills) - Official documentation for creating, publishing, and discovering skills.
