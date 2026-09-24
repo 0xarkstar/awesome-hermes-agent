@@ -47,6 +47,7 @@ Hermes Agent is an open-source, self-improving AI agent with persistent memory, 
 
 ## Skills and Plugins
 
+- [Agent QA](https://github.com/vostride/agent-qa) - Three Agent Skills for authoring, triaging, and debugging natural-language web and mobile tests, with an MCP server for execution evidence. `Beta`.
 - [Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) - Over 700 cybersecurity skills mapped to the MITRE ATT&CK framework.
 - [black-forest-labs/skills](https://github.com/black-forest-labs/skills) - Official FLUX image generation skills for agent-driven visual content creation.
 - [chainlink-agent-skills](https://github.com/smartcontractkit/chainlink-agent-skills) - Official Chainlink integration skills for blockchain oracle interactions.
