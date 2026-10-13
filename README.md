@@ -69,6 +69,7 @@ Hermes Agent is an open-source, self-improving AI agent with persistent memory, 
 
 ## Integrations
 
+- [Aident Loadout](https://github.com/Aident-AI/aident-skill) - Open-source skill and remote MCP server that gives Hermes Agent (and other MCP clients) access to 1,000+ apps and 400+ Skills through one setup, with Vault-held credentials and Audit logging. Homepage: https://aident.ai. `Production`
 - [hermes-agent-acp-skill](https://github.com/Rainhoole/hermes-agent-acp-skill) - Multi-agent delegation skill enabling task handoff across Hermes, Codex, and Claude Code.
 - [hermes-android](https://github.com/raulvidis/hermes-android) - Android device bridge for controlling mobile devices through Hermes Agent.
 - [hermes-cloudflare](https://github.com/raulvidis/hermes-cloudflare) - Cloudflare browser rendering plugin for headless web interactions.
