@@ -52,6 +52,7 @@ Hermes Agent is an open-source, self-improving AI agent with persistent memory, 
 - [chainlink-agent-skills](https://github.com/smartcontractkit/chainlink-agent-skills) - Official Chainlink integration skills for blockchain oracle interactions.
 - [evey-bridge-plugin](https://github.com/42-evey/evey-bridge-plugin) - Plugin bridging Claude Code and Hermes Agent for cross-tool workflows.
 - [execplan-skill](https://github.com/tiann/execplan-skill) - Complex task execution skill with checkpoints and failure recovery.
+- [hermes-bubbles](https://github.com/NaimioChan/hermes-bubbles) - A bubble-style chat page for the Hermes web dashboard that replaces the built-in terminal chat with streaming bubbles, rendered Markdown, tool cards, approval cards and session tabs (`Beta`).
 - [hermes-plugins](https://github.com/42-evey/hermes-plugins) - Collection of plugins for goal management, model selection, and cost control.
 - [hermes-weather-plugin](https://github.com/FahrenheitResearch/hermes-weather-plugin) - Professional-grade weather data plugin using NWS and NEXRAD radar sources.
 - [litprog-skill](https://github.com/tlehman/litprog-skill) - Literate programming skill for generating well-documented executable code.
