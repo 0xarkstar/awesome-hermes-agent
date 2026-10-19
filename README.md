@@ -101,6 +101,7 @@ Hermes Agent is an open-source, self-improving AI agent with persistent memory, 
 - [Bitdoze Setup Guide](https://www.bitdoze.com/hermes-agent-setup-guide/) - Step-by-step installation and configuration tutorial with screenshots.
 - [DEV Community Review](https://dev.to/george_larson_3cc4a57b08b/hermes-agent-honest-review-1557) - Independent developer review covering real-world usage experience.
 - [hermes-wsl-ubuntu](https://github.com/metantonio/hermes-wsl-ubuntu) - Detailed guide for setting up Hermes Agent on Windows Subsystem for Linux.
+- [How We Work: A Small AI Team](https://gist.github.com/Gaj64/9fc31880d50991bf47e4d466812e9715) - Case study of one person running two Hermes Agents and Claude Code as a team, with roles, written handoffs, independent go/no-go checks and lessons from real failures.
 - [TrySliq Review](https://trysliq.com/blog/hermes-agent-review) - Practical review focusing on daily workflow integration and productivity.
 
 ## Community
