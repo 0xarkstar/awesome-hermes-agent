@@ -95,6 +95,7 @@ Hermes Agent is an open-source, self-improving AI agent with persistent memory, 
 - [hermes-agent-camel](https://github.com/nativ3ai/hermes-agent-camel) - Hermes Agent fork with CaMeL trust boundaries for safer autonomous operation.
 - [hermes-incident-commander](https://github.com/Lethe044/hermes-incident-commander) - Autonomous SRE agent for infrastructure incident detection and self-healing.
 - [hermescraft](https://github.com/bigph00t/hermescraft) - Minecraft AI companion agent demonstrating embodied gameplay interaction.
+- [Vox AI Relay](https://github.com/Xilebo123/vox-ai-relay) - Native Android voice and text client for Hermes Agent: on-device speech recognition, sentence-level TTS streaming, real barge-in interruption, photo and PDF attachments through Hermes Vision, ntfy push. `Beta`
 
 ## Tutorials and Guides
 
